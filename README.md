@@ -1,6 +1,6 @@
 # 📊 Job Market Skill Demand Dashboard (Power BI)
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](C:\Users\shyam\Downloads\PowerBI_Job_Market_Project)
 
 
 A Power BI dashboard analyzing **853 real Data Analyst / Data Scientist /
