@@ -1,5 +1,8 @@
 # 📊 Job Market Skill Demand Dashboard (Power BI)
 
+![Dashboard Screenshot](dashboard_screenshot.png)
+
+
 A Power BI dashboard analyzing **853 real Data Analyst / Data Scientist /
 Business Analyst / Data Engineer job postings** in India (filtered from the
 Kaggle dataset **"India Tech Jobs 2024-2026"** by Sridip Basu, which is
