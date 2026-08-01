@@ -161,8 +161,7 @@ Build a table/matrix visual from this calculated table:
 ---
 
 ## Real Insights Already Found in This Data
-*(Use these directly in your dashboard commentary and interview answers —
-these are the actual, verified numbers from the real dataset.)*
+
 
 - **SQL is the single most in-demand skill — appears in 59% of all 853
   postings**, far ahead of anything else. Python (39%), Power BI (37%),
